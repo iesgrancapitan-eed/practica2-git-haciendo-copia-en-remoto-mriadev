@@ -21,4 +21,6 @@ git push -u origin main
 
 ## 4. En local (no debes trabajar en el remoto) y siempre desde git Bash añade el fichero README.md con estas instrucciones y sus pantallazos.
 ![img](img/4.png)
+![img](img/4.1.png)
 ## 5. Sincroniza tus cambios con el repositorio remoto (git push)
+![img](img/5.png)
